@@ -1,4 +1,4 @@
-// 
+// 유효한 팰린드롬
 
 import java.util.*;
 
